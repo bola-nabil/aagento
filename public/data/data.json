@@ -1,0 +1,101 @@
+{
+    "allPagesLinks": [
+        { "id": 1, "title": "Home", "path": "" },
+        { "id": 2, "title": "Our Story", "path": "our-story" },
+        { "id": 3, "title": "Pricing", "path": "pricing" },
+        { "id": 4, "title": "Integration", "path": "integration" },
+        { "id": 5, "title": "Contact", "path": "contact" },
+        { "id": 6, "title": "Terms", "path": "terms-condition" },
+        { "id": 7, "title": "Blog", "path": "blog" },
+        { "id": 8, "title": "Blog Details", "path": "blog/1" },
+        { "id": 9, "title": "Privacy", "path": "privacy-policy" },
+        { "id": 10, "title": "FAQ", "path": "faq" },
+        { "id": 11, "title": "404", "path": "404" }
+    ],
+    "chooseUs": [
+        {"id": 1, "icon": "faCheck" ,"title": "Easy Access", "description": "A user-friendly interface makes AI functions simple for all skill levels."},
+        {"id": 2, "icon": "faGear" ,"title": "Smart Automation", "description": "Automate routine tasks to focus on high-impact, strategic work."},
+        {"id": 3, "icon": "faShield" ,"title": "Trusted Security", "description": "Top-level encryption and compliance ensure your data stays secure."},
+        {"id": 4, "icon": "faChartPie" ,"title": "Insightful Analytics" , "description": "Unlock actionable insights and accurate forecasts for smarter decisions."},
+        {"id": 5, "icon": "faLink" ,"title": "Seamless Integrations" , "description": "Effortlessly connect with your existing tools for a unified experience."},
+        {"id": 6, "icon": "faHeadset" ,"title": "Dedicated Support" , "description": "Our 24/7 support team is ready to help you succeed with AIPro."}
+    ],
+    "features": [
+        {"id": 1, "img": "features-1.avif", "title": "Data-Driven Insights", "description": "Transform raw data into precise, actionable insights that power smarter business decisions."},
+        {"id": 2, "img": "features-2.avif", "title": "Automation Optimization", "description": "Streamline repetitive tasks to enhance efficiency and precision across operations."},
+        {"id": 3, "img": "features-3.avif", "title": "Advanced Insights", "description": "Empower your business with cutting-edge AI technology that transforms raw data into actionable insights."}
+    ],
+    "pricing": [
+        {"id": 1, "plan": "Basic", "price": "$29.00"},
+        {"id": 2, "plan": "Business", "price": "$59.00"},
+        {"id": 3, "plan": "Enterprise", "price": "$99.00"}
+    ],
+    "integrations": [
+        {"id": 1, "cardImg": "chatgpt.webp", "title": "Chatgpt", "description": "An AI chatbot that assists with conversations, answering questions, and generating content."},
+        {"id": 2, "cardImg": "discord.png", "title": "Discord", "description": "Discord is a communication platform for text, voice, and video chat, designed for gaming and community interaction."},
+        {"id": 3, "cardImg": "dropbox.webp", "title": "Dropbox", "description": "Dropbox is a cloud storage service for securely storing, sharing, and collaborating on files."},
+        {"id": 4, "cardImg": "git.png", "title": "Git", "description": "Git is a distributed version control system that helps track changes in code and collaborate on software "},
+        {"id": 5, "cardImg": "github.avif", "title": "Github", "description": "A platform for version control and collaboration, enabling developers to host, review, and manage code."},
+        {"id": 6, "cardImg": "hangouts.webp", "title": "Hangouts", "description": "A messaging and video call platform for real-time communication, part of Google’s suite."},
+        {"id": 7, "cardImg": "slack.avif", "title": "Slack", "description": "Slack is a messaging and collaboration platform that helps teamscommunicate and work together in real "},
+        {"id": 8, "cardImg": "zapier.svg", "title": "Zapier", "description": "A no-code platform that connects apps and automates workflows, simplifying repetitive tasks."},
+        {"id": 9, "cardImg": "zendesk.avif", "title": "Zendesk", "description": "A customer service platform offering tools for support, sales, and customer engagement"}
+    ],
+    "testimonials": [
+        {"id": 1, "content": "“AI Agent ability to create a high quality user interface stands out. It's something ve placed a premium on. Recommended!.”", "name": "Brandley Gordon", "jobTitle": "CEO & Founder, archin Studio", "profileImg": "team-1.avif"},
+        {"id": 2, "content": "“AI Agent ability to create a high quality user interface stands out. It's something ve placed a premium on. Recommended!.”", "name": "Roking Hridoy", "jobTitle": "CEO & Founder, archin Studio", "profileImg": "team-2.avif"}
+    ],
+    "blogs": [
+        {"id": 1, "profileImg": "team-1.avif", "name": "Jhon Dayone", "date": "Jan 16, 2025", "blogImg": "blog-1.avif", "blogTitle": "AI Agents vs. AI Workflows: Understanding the Difference and Why It Matters", "blogDescription": "Not all AI solutions are created equal. Understanding the differences is essential for successful implementation."},
+        {"id": 2, "profileImg": "team-2.avif", "name": "Kawsar Ahmed", "date": "Jan 9, 2025", "blogImg": "blog-2.avif", "blogTitle": "Our AI Agent journey to 99.8% accuracy in production", "blogDescription": "Dive into the complexities of building and deploying Large Language Model (LLM) agents for various tasks such as customer support and sales. It highlights the challenges including hallucinations, inconsistency, edge cases, reproducibility, and quality assurance."},
+        {"id": 3, "profileImg": "team-3.avif", "name": "Asif Mahmud", "date": "Dec 12, 2024", "blogImg": "blog-3.avif", "blogTitle": "The Transformative Power of AI Agents in Content Creation", "blogDescription": "AI agents revolutionize content creation, elevating productivity and enhancing quality like never before."},
+        {"id": 4, "profileImg": "team-4.jpg", "name": "Michale Janson", "date": "Dec 02, 2024", "blogImg": "blog-4.jpg", "blogTitle": "The Rise of Autonomous AI Agents", "blogDescription": "AI agents now complete tasks autonomously, transforming automation."},
+        {"id": 5, "profileImg": "team-5.jpg", "name": "Vin Disel", "date": "Nov 20, 2024", "blogImg": "blog-5.jpg", "blogTitle": "AI Agents vs. AI Workflows: Key Differences and Why They Matter", "blogDescription": "AI agents supercharge content creation, boosting productivity and quality."}
+    ],
+    "teams": [
+        {"id": 1, "personImg": "team-1.avif", "name": "Wilson Lipshutz", "jobTitle": "Administrator"},
+        {"id": 2, "personImg": "team-2.avif", "name": "Mahtab Mahim", "jobTitle": "UI UX Designer"},
+        {"id": 3, "personImg": "team-3.avif", "name": "Jonson Jamil", "jobTitle": "Administrator"},
+        {"id": 4, "personImg": "team-4.jpg", "name": "Roking Roton", "jobTitle": "Team Leader"}
+    ],
+    "faq": [
+        {"id": 1, "question": "What Service do you offer", "answer": "Framer is a design tool that allows you to design websites on a freeform canvas, and then publish them as websites with a single click."},
+        {"id": 2, "question": "What indastries do you specialize?", "answer": "We specialize in various industries including healthcare, finance, retail, e-commerce, manufacturing, and logistics. Our AI-driven solutions are tailored to meet the specific needs of each sector."},
+        {"id": 3, "question": "Do you provide ongoing support after?", "answer": "Yes, we offer continuous support and monitoring to ensure that your AI solutions are performing optimally. Our team is available for troubleshooting, updates, and system enhancements as needed."},
+        {"id": 4, "question": "How do AI solutions benifit my business?", "answer": "AI solutions can help your business streamline operations, reduce costs, enhance decision-making, and improve customer experiences through predictive analytics, automation, and personalized recommendations."},
+        {"id": 5, "question": "How long does it take to see results?", "answer": "The timeline varies based on the complexity of the project and the specific solutions implemented. However, most clients begin seeing measurable improvements within a few months."}
+    ],
+    "contact": [
+        {"id": 1, "icon": "faLocationDot", "title": "Address", "details": "Egypt, Al Fayoum", "contactLink": ""},
+        {"id": 2, "icon": "faEnvelope", "title": "Email Us", "details": "bolanabil401@gmail.com", "contactLink": "mailto:bolanabil401@gmail.com"},
+        {"id": 3, "icon": "faPhoneVolume", "title": "Call Us:", "details": "010******42", "contactLink": "tel:01026146442"}
+    ],
+    "quickLinks": [
+        {"id": 1, "title": "Home", "path": ""},
+        {"id": 2, "title": "Our Story", "path": "our-story"},
+        {"id": 3, "title": "Pricing", "path": "pricing"},
+        {"id": 4, "title": "Contact", "path": "contact"},
+        {"id": 5, "title": "Integrations", "path": "integration"}
+    ],
+    "resourcesLinks": [
+        {"id": 1, "title": "Blog", "path": "blog"},
+        {"id": 2, "title": "Blog Details", "path": "/blog/1"},
+        {"id": 3, "title": "Terms & Conditions", "path": "terms-condition"},
+        {"id": 4, "title": "Privacy Policy", "path": "privacy-policy"}
+    ],
+    "helpLinks": [
+        {"id": 1, "title": "FAQ", "path": "faq"},
+        {"id": 2, "title": "404", "path": "404"}
+    ],
+    "mainLinks": [
+        { "id": 1, "title": "Our Story", "path": "our-story" },
+        { "id": 2, "title": "Pricing", "path": "pricing" },
+        { "id": 3, "title": "Contact", "path": "contact" }
+    ],
+    "socialLinks": [
+        {"id": 1, "icon": "faFacebook", "path": "https://www.facebook.com/bolanabil404"},
+        {"id": 2, "icon": "faGithub", "path": "https://github.com/bola-nabil"},
+        {"id": 3, "icon": "faYoutube", "path": "https://www.youtube.com/@bola-nabil"},
+        {"id": 4, "icon": "faLinkedin", "path": "https://www.linkedin.com/in/bolanabil/"}
+    ]
+}

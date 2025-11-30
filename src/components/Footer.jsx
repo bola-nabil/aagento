@@ -23,7 +23,7 @@ const Footer = () => {
   const socialLinks = useMemo(() => content?.socialLinks || [], [content]);
 
   return (
-    <>
+    <div className="pt-8">
       <div className="text-white flex flex-col lg:flex-row gap-8">
         <div>
           <Link to="/">
@@ -85,7 +85,7 @@ const Footer = () => {
           </p>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
